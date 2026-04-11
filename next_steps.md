@@ -5,5 +5,9 @@ How to get the data ?
   - might be illagegl
   - can block my account
 - AWS API (PAAPI) product advertising API
-  - can be use full
+  - can be use this API
+  - - this API is deprecated
+    - We can use seller API which shows detals of each product
+    - the we can scrap the data (save it some where)
+    - 
   - how to use it ?
